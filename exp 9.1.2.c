@@ -1,6 +1,9 @@
 //
 // Created by Mohammed on 5/6/2025.
 //
+/*
+Write a C program to perform Breadth First Search (BFS) traversal on a graph.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 99
