@@ -1,6 +1,20 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Write a C program to implement a menu-driven application that uses a doubly linked list to perform the following operations:
+
+
+
+Operations:
+
+Create and Insert: Add a number to the doubly linked list.
+Delete: Remove a specific number from the doubly linked list.
+Display: Print the elements of the doubly linked list in order.
+Reverse: Reverse the order of the doubly linked list.
+Exit: The program should terminate when the user chooses this option.
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 struct Node{
