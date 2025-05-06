@@ -1,6 +1,7 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+//Write a program to sort (Ascending order) the given elements using merge sort technique.
 void display(int a[15], int n) {
     for(int i = 0; i < n; i++) printf("%d ",a[i]);
     printf("\n");
