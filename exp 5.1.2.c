@@ -1,6 +1,12 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Write a menu-driven program that implements a circular linked list for the following operations:
+
+Create two lists (list1 to list2 and list2 to list1)
+Concatenate two lists
+*/
 #include <stdio.h>
 #include <stdlib.h>
 struct Node{
