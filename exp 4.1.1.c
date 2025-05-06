@@ -1,6 +1,13 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*Write a menu-driven program that implements a singly linked list for the following operations:
+
+Insert
+Delete
+Reverse
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
