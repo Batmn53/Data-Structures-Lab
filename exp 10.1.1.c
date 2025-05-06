@@ -1,6 +1,7 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+//Write a C program to construct a Minimum Cost Spanning Tree (MST) using Prim's Algorithm, printing the selected edges and the total minimum cost.
 #include<stdio.h>
 #include<conio.h>
 #define MAX 10
