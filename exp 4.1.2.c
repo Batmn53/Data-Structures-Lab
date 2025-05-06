@@ -1,6 +1,14 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Write a menu driven C program that implements singly linked list for the following operations:
+
+Create
+Display
+Concatenate
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 struct Node {
