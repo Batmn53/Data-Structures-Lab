@@ -1,6 +1,14 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Write a menu-driven program that implements a circular linked list for the following operations:
+
+Create
+Insert
+Delete
+Reverse
+*/
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node {
