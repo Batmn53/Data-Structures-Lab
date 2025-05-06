@@ -1,6 +1,7 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+//Write a program to search a key element in the given array of elements using binary search.
 #include<stdio.h>
 void main() {
     int a[20], i, j, n, key, flag = 0, low, high, mid, temp;
