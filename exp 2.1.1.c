@@ -1,6 +1,7 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+//Write a program to sort the given strings using bubble sort technique
 #include<stdio.h>
 #include<string.h>
 void main() {
