@@ -1,6 +1,13 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Write a menu-driven C program that implements a doubly linked list for the following operations:
+
+Create two lists
+Display lists
+Concatenate
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
