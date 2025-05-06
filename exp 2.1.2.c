@@ -1,6 +1,7 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+//Write a program to sort the given array elements using selection sort largest element method.
 #include<stdio.h>
 void main() {
     int a[20], i, n, j, large, index;
