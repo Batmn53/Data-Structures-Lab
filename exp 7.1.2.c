@@ -1,6 +1,16 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Write a program to create a binary search tree of integers and perform the following operations using linked list.
+
+Insert a node
+In-order traversal
+Pre-order traversal
+Post-order traversal
+Search an element
+Exit
+*/
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
