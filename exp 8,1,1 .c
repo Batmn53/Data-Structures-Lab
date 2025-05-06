@@ -1,6 +1,9 @@
 //
 // Created by Mohammed on 5/5/2025.
 //
+/*
+Implementation of directed graph and its operations using adjacent lists.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 100
